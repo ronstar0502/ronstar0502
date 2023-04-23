@@ -1,8 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ron Star</h1>
 <h3 align="center">A passionate full-stack developer from Israel</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=ronstar0502&label=Profile%20views&color=0e75b6&style=flat](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)" alt="ronstar0502" /> </p>
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ronstar0502&label=Profile%20views&color=0e75b6&style=flat" alt="ronstar0502" /> </p>
 
 - 🌱 I’m currently learning **React js , different data-bases and different css frameworks**
 
