@@ -3,8 +3,8 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronstar0502&label=Profile%20views&color=0e75b6&style=flat" alt="ronstar0502" /> </p>
 
-- 🌱 I’m currently learning **React js , different data-bases and different css frameworks**
-
+- 🌱 I’m currently learning **Video Game Development and Design**
+- Development using **Unity c# , Unreal Engine visual scripting** 
 - 📫 How to reach me **ronstar0502@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
